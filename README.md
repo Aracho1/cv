@@ -1,33 +1,29 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
 
-I am a highly-motivated and communicative **Full Stack Web Developer**, looking for an opportunity to 
+I am a highly-motivated **Full Stack Developer** with strong communication skills, looking for an opportunity to work on innovative products and services.  
+I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
+
+Prior to that, I worked as a business analyst for 5 years in a major global bank, where my role was to find analytical solutions to complex projects. This has shaped me to become a quick learner with a methodical approach to problem-solving. 
+
+**Tech Skills**: Ruby, Javascript, HTML, CSS
 
 ## Projects
 
-| Name                         | Description                                           | Tech/tools        |
-| ---------------------------- | ----------------------------------------------------- | ----------------- |
-| **Final project**            | A webapp to do x.                                     | React, Jest, etc. |
-| **Sustainability Scorer**    | A webapp which calculates a product's sustainability. | tbc               |
+| Name                          | Description                                           | Tech/tools        |
+| ------------------------------| ----------------------------------------------------- | ----------------- |
+| **Final project**             | A webapp to do x.                                     | React, Jest, etc. |
+| **Sustainability Calculator** | A webapp which calculates a product's sustainability. | tbc               |
 
-## Experience
 
-**UBS** (2015 - 2020)  
-_Business Analyst & Manager_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
 #### Excellent Communicator
 
-- Experience
-- Achievements
-- Evidence
+During my time at UBS as a Business Analyst, I coordinated central projects with over 10 teams
 
-#### Another Skill
+#### Attention to Detail
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -35,6 +31,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Excellent Team Worker
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
 
 ## Education
 
@@ -52,8 +58,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Warwick (2009 - 2012)
 
 - BA Philosophy, Politics and Economics (PPE)
-- Grade
-- Other cool stuff
+
+## Experience
+
+**UBS** (2015 - 2020)  
+_Business Analyst & Manager_
 
 #### Qualifications
 
