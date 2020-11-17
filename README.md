@@ -58,12 +58,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - BA Philosophy, Politics and Economics (PPE)
 
-#### Experience
+## Experience
 
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
 
-#### Qualifications
+## Qualifications
 
 - Professional Scrum Master
 - CFA Level II
