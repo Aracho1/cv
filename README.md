@@ -3,7 +3,7 @@
 
 I am a highly-motivated **Full Stack Developer**, looking for an opportunity to work on innovative products / services with a strong tech team where I can learn and grow. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
 
-I am a quick learner who can bring analytical and creative perspective to problem-solving, thanks to my experience working in a major global bank as a business analyst for 5 years. I am an excellent communicator who thrives on team work and loves taking on new challenges.
+I am a quick learner who can bring a logical and creative perspective to problem-solving, trained during my time working in a major global bank as a business analyst for 5 years. I am an excellent communicator who thrives on team work thanks to my open and collaborative personality.
 
 **Tech Skills**: Ruby, Javascript, HTML, CSS
 
