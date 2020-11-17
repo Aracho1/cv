@@ -20,20 +20,16 @@ I worked as a business analyst for 5 years in a major global bank, where my role
 
 #### Excellent Communicator and Team Worker
 
-During my time at UBS as a Business Analyst, I coordinated 20+ projects with a dozen teams across the whole business. 
+During my time at UBS as a Business Analyst, I coordinated 20+ central projects with a dozen teams spread across Europe and Asia. 
 
 #### Logical Thinker
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
+- I improved the process and business efficiency of the firm
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 #### Attention to Details
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
