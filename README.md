@@ -1,7 +1,7 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
 
-I am a highly-motivated **Full Stack Developer**, looking for an opportunity to work on innovative products / services with a strong tech team where I can learn and grow. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
+I am a **Full Stack Developer**, looking for an opportunity to work on innovative products / services with a strong tech team where I can learn and grow. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
 
 I am a quick learner who can bring a logical and creative perspective to problem-solving, which were trained during my time as a Business Analyst working on large complex projects at a major global bank. I am an excellent communicator who thrives on team work thanks to my open and proactive personality.
 
@@ -11,7 +11,7 @@ I am a quick learner who can bring a logical and creative perspective to problem
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Final project**             | A webapp to do x.                                     | React, Jest, etc. |
+| **Final project**             | A webapp to do x                                      | React, Jest, etc. |
 | **Sustainability Calculator** | A webapp which calculates a product's sustainability. | tbc               |
 
 
@@ -35,7 +35,6 @@ During my time at UBS as a Business Analyst, I coordinated 20+ central projects 
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
-
 
 ## Education
 
@@ -66,4 +65,6 @@ _Business Analyst & Manager_
 
 ## Hobbies and Interests
 
-Any cool stuff that makes you a super part of a software development team
+- Yoga
+- Hiking 
+- Sustainability & Veganism
