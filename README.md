@@ -1,24 +1,19 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a highly-motivated and communicative **Full Stack Web Developer**, looking for an opportunity to 
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                                           | Tech/tools        |
+| ---------------------------- | ----------------------------------------------------- | ----------------- |
+| **Final project**            | A webapp to do x.                                     | React, Jest, etc. |
+| **Sustainability Scorer**    | A webapp which calculates a product's sustainability. | tbc               |
 
 ## Experience
 
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
-
-- Any experience relevent to software development
-
-**Company Name** (start-date to end-date)  
-_Your job title_
 
 - Any experience relevent to software development
 
@@ -53,8 +48,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### London School of Economics (2013 - 2014)
 
 - MSc Social Policy
-- Grade
-- Other cool stuff
 
 #### University of Warwick (2009 - 2012)
 
@@ -64,8 +57,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Qualifications
 
-Professional Scrum Master
-CFA Level II
+- Professional Scrum Master
+- CFA Level II
 
 ## Hobbies and Interests
 
