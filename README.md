@@ -1,5 +1,5 @@
 ## Ara Cho
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -67,6 +67,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Professional Scrum Master
 CFA Level II
 
-## Hobbies
+## Hobbies and Interests
 
 Any cool stuff that makes you a super part of a software development team
