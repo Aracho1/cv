@@ -1,7 +1,7 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
 
-I am a highly-motivated **Full Stack Developer** with strong communication skills, looking for an opportunity to work on innovative products and services with a strong tech team. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
+I am a highly-motivated **Full Stack Developer** with strong communication skills, looking for an opportunity to work on innovative products / services with a strong tech team. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
 
 I worked as a business analyst for 5 years in a major global bank, where my role was to find analytical solutions to complex projects. This has shaped me to become a quick learner with a methodical approach to problem-solving. 
 
