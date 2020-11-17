@@ -62,7 +62,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Grade
 - Other cool stuff
 
-#### Any other qualifications
+#### Qualifications
 
 Professional Scrum Master
 CFA Level II
