@@ -22,7 +22,7 @@ I am a quick learner who can bring a logical and creative perspective to problem
 
 During my time at UBS as a Business Analyst, I coordinated 20+ central projects with a dozen teams spread across Europe and Asia. 
 
-#### Logical Thinker
+#### Ability to Digest Complex Issues
 
 - I improved the process and business efficiency of the firm
 - I contributed to the growth of X while doing Y (job, or otherwise)
