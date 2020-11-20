@@ -32,7 +32,7 @@ I'd love if you reach out to me for a chat at hello.ara@pm.me
 #### Everyone tells me I'm great to work with!
 
 - The most consistent feedback I got from my ex-bosses and colleagues was that they love working with me because I am collaborative, accountable and professional.
-- I am proactive as well as patient, and by nature I love helping people, both in professional and personal settings. 
+- I am both proactive and patient, and having this balance makes me a great collaborator. And by nature, I love helping people, both in professional and personal settings. 
 
 #### I'm an efficient and proactive learner 
 
