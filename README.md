@@ -1,7 +1,7 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation. I'm confident you'll love working with me because I'm a great communicator, team worker and learning programming fast and hard. 
+I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation. I'm confident you'll love working with me because I'm a great communicator, team worker and will be learning programming fast and hard. 
 
 I studied philosophy but worked in finance - so I love developing ideas but I also like to be pragmtic and efficient, which gives me a great advantage as a programmer. I'm also someone who loves learning (In my spare time, I'm forever going through a long list of books and podcasts on new subjects), so I was so thrilled to discover programming as a profession.
 
