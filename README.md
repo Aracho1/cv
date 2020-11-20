@@ -5,9 +5,9 @@ I am an aspiring **Full Stack Developer**, looking for an opportunity to work wi
 
 I studied philosophy but worked in finance - so I love developing ideas but I also like to be pragmtic and efficient. I think this gives me a great advantage as a programmer. 
 
-Please take a look below at a suite of projects I did both at Makers and as personal projects, and if you are impressed for more, a list of my strongest skills, professional experiences and others.
+Please take a look below at a suite of my coding projects, and if you are impressed for more, a list of my strongest skills, professional experiences and others.
 
-I'd love if you reach out to me for a chat [here](email:hello.ara@pm.me).
+I'd love if you reach out to me for a chat at hello.ara@pm.me
 
 **Tech Skills**: Ruby, Javascript, Test-Driven Development, Object-Oriented Design, HTML, CSS
 
@@ -24,20 +24,21 @@ I'd love if you reach out to me for a chat [here](email:hello.ara@pm.me).
 
 #### I'm a great communicator
 
-- As a Business Analyst / Manager at UBS, I coordinated 10+ projects with regional teams spread across Europe, Asia and America. As a key facilitator, I was resposible for communication of group strategies to the sales teams.
+- As a Business Analyst / Manager at UBS, I coordinated 20+ projects with regional teams spread across Europe, Asia and America. As a key facilitator, I was resposible for communication of group strategies to the sales teams.
 - I have been writing weekly blog posts about programming and other topics as you can see [here](https://hello-ara.medium.com/)
 - I did 7-month internship with S.Korea's biggest news agency, writing daily news articles published online.
 - I have regularly volunteered as an interpreter/translator, including during the 2012 London Olympics.
 
 #### Everyone tells me I'm great to work with!
 
-- The most consistent feedback I got from my ex-bosses and colleagues was that they love working with me because I am collaborative and professional.
+- The most consistent feedback I got from my ex-bosses and colleagues was that they love working with me because I am collaborative, accountable and professional.
 - I am proactive as well as patient, and by nature I love helping people, both in professional and personal settings. 
 
 #### I'm an efficient and proactive learner 
 
 - I achieved x at Makers while x
-- When I joined the sales team in my old company, I learned all the products, strategies and processes in a very short span of time, and started contributing to key projects from very early on. I also studied and passed the most highly regarded exam in finance (CFA) two years in a row while working full-time
+- When I joined the sales team in my old company, I learned all the products, strategies and processes in a very short span of time. As a result I started contributing to key projects from very early on. 
+- I succesfully passed the most highly regarded exam in finance (CFA) two years in a row while working full-time
 
 ## Education
 
@@ -61,7 +62,8 @@ I'd love if you reach out to me for a chat [here](email:hello.ara@pm.me).
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
 
-I was responsible for implementing various group projects by working with a wide pool of stakeholders, including the technology and finance teams.
+- Responsible for planning and implementing various projects to optimise the business processes and systems
+- Worked with stakeholders in IT, finance and compliance to improve the sales experience and process for sales managers
 
 ## Qualifications
 
