@@ -1,9 +1,14 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am a **Full Stack Developer**, looking for an opportunity to bring my skillset to an innovative tech team where I can contribute and learn. I am currently completing a 12-week coding bootcamp with Makers Academy.
+I am a **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation. I'm confident you'll love working with me because I'm a great communicator, team worker and I'm learning programming fast and hard. 
 
-I am a quick learner who can bring a logical and creative perspective to problem-solving, which were trained during my time as a Business Analyst working on large complex projects at a major global bank. I am an excellent communicator who thrives on team work thanks to my open and proactive personality.
+I am currently completing a 12-week coding bootcamp with Makers Academy. You can see all the cool projects I did [here](#projects).
+
+I studied philosophy but worked in finance. 
+
+
+
 
 **Tech Skills**: Ruby, Javascript, Test-Driven Development, Object-Oriented Design, HTML, CSS
 
@@ -30,12 +35,10 @@ I am a quick learner who can bring a logical and creative perspective to problem
 - The most consistent feedback I got from my ex-bosses and colleagues was that they love working with me because I am collaborative and professional.
 - I am proactive as well as patient, and by nature I love helping people, both in professional and personal settings. 
 
-#### I'm analytical and organised
+#### I'm an efficient and proactive learner 
 
-- I have always develivered projects
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I achieved x at Makers while x
+- When I joined the sales team in my old company, I learned all the products, strategies and processes in a very short span of time, and started contributing to key projects from very early on. I also studied and passed the most highly regarded exam in finance (CFA) two years in a row while working full-time
 
 ## Education
 
@@ -58,6 +61,8 @@ I am a quick learner who can bring a logical and creative perspective to problem
 
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
+
+I was responsible for implementing various group projects by working with a wide pool of stakeholders, including the technology and finance teams.
 
 ## Qualifications
 
