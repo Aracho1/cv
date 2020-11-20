@@ -3,8 +3,6 @@
 
 I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation. I'm confident you'll love working with me because I'm a great communicator, team worker and learning programming fast and hard. 
 
-I am currently completing a 12-week coding bootcamp with Makers Academy. 
-
 I studied philosophy but worked in finance - so I love developing ideas but I also like to be pragmtic and efficient. I think this gives me a great advantage as a programmer. 
 
 Please take a look below at a suite of projects I did both at Makers and as personal projects, and if you are impressed for more, a list of my strongest skills, professional experiences and others.
