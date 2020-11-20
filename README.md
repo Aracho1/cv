@@ -1,7 +1,7 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation to the market. I'm confident you'll love working with me because I'm a great communicator, team worker and am learning programming fast and hard. 
+I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation to the market. I'm confident you'll love working with me because I'm a great communicator, team worker and learning programming fast and hard. 
 
 I am currently completing a 12-week coding bootcamp with Makers Academy. 
 
