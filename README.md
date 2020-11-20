@@ -1,14 +1,15 @@
 ## Ara Cho
 [Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am a **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation. I'm confident you'll love working with me because I'm a great communicator, team worker and I'm learning programming fast and hard. 
+I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team that delivers innovation to the market. I'm confident you'll love working with me because I'm a great communicator, team worker and am learning programming fast and hard. 
 
-I am currently completing a 12-week coding bootcamp with Makers Academy. You can see all the cool projects I did [here](#projects).
+I am currently completing a 12-week coding bootcamp with Makers Academy. 
 
-I studied philosophy but worked in finance. 
+I studied philosophy but worked in finance. So I love developing ideas but I also like to be pragmtic and efficient. This gives me a great advantage as a programmer. 
 
+Please take a look below at a suite of projects I did both at Makers and as personal projects, and if you are impressed for more, a list of my strongest skills, professional experiences and others.
 
-
+I'd love if you reach out to me for a chat [here](hello.ara@pm.me).
 
 **Tech Skills**: Ruby, Javascript, Test-Driven Development, Object-Oriented Design, HTML, CSS
 
