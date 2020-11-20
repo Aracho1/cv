@@ -1,5 +1,5 @@
 ## Ara Cho
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](tbc)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
 I am a **Full Stack Developer**, looking for an opportunity to work on innovative products / services with a strong tech team where I can learn and grow. I am currently completing an intensive 12-week coding bootcamp with Makers Academy.
 
