@@ -3,7 +3,9 @@
 
 I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team. I'm confident you'll love working with me because I'm a great communicator, team worker and will be learning programming fast and hard. 
 
-I studied philosophy but worked in finance - so I love being logical in both conceptual and implementational level. I love developing ideas but I also like to be pragmtic and efficient. These give me a great advantage as a programmer. I'm also someone who loves learning (in my spare time, I'm forever going through a long list of books and podcasts on new subjects), so I was so thrilled to discover programming, which means I
+I studied philosophy but worked in finance - so I love being logical in both conceptual and implementational level. I love developing ideas but I also like to be pragmtic and efficient. These give me a great advantage as a programmer. 
+
+I'm passionate about promoting diversity in Tech. I'm part of many female programmer networks including Women Who Code, Ladies of Code and Code First Girls.
 
 Please take a look below at a suite of my coding projects, and if you are impressed for more, a list of my skill sets, professional experiences and others.
 
