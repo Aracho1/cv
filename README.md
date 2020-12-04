@@ -1,6 +1,5 @@
 ## Ara Cho
-[Email](hello.ara@pm.me)
-[LinkedIn](http://www.linkedin.com/in/aracho1) | 
+[Email](emailto:hello.ara@pm.me) | [LinkedIn](http://www.linkedin.com/in/aracho1)
 
 I just completed Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
@@ -26,9 +25,12 @@ I just completed Makers Academy bootcamp and am looking to pivot software engine
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
 
--
-Responsible for planning and implementing various projects to optimise the business processes and systems
-- Worked with stakeholders in IT, finance and compliance to improve the sales experience and process for sales managers
+- Improved the efficiency and speed of daily finance flow reporting by 30% by setting up a standardized process and tightening the reporting structure
+- Increased annual cross-business referrals by 28% by working on implementing a new incentive structure and facilitating stakeholder meetings
+- Enhanced the oversight of UK sales activities by at least 50% by developing responsibility discharge matrix and running a governance committee
+- Optimized the internal legal entity search process by promoting a clean-up of the legal database in liaison with legal, compliance and sales teams
+- Developed a new set of client onboarding requirements and promoted them to internal clients in order to satisfy regulatory and compliance standards
+
 
 ## Projects
 
