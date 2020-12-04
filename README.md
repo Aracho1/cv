@@ -25,7 +25,7 @@ _Business Analyst & Manager_
 - Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
 - Enhanced the oversight of UK sales activities by at least 50% by establishing responsibility discharge matrix
 - Optimized the internal legal entity search process by promoting a clean-up of the legal database in liaison with legal, compliance and sales teams
-- Developed a new set of client onboarding requirements and promoted them to internal clients in order to satisfy regulatory (MIFID) standards
+- Set up new client onboarding requirements according to new finance regulatory (MIFID) standards 
 
 
 ## Projects
