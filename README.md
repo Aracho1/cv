@@ -28,7 +28,7 @@ _Business Analyst & Manager_
 - Set up new client onboarding requirements according to new finance regulatory (MIFID) standards 
 
 
-## Programming Projects
+## Projects
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
@@ -53,5 +53,5 @@ _Business Analyst & Manager_
 
 ## Others
 - [My Coding Blog](https://hello-ara.medium.com/)
-- Hobbies:
-- Interests:
+- Hobbies: Yoga, hiking, listening to podcasts
+- Interests: Sustability, minimalism, travel
