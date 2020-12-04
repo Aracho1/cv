@@ -12,13 +12,9 @@ I just completed Makers Academy bootcamp and am looking to pivot software engine
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### London School of Economics (2013 - 2014)
+#### London School of Economics (2013 - 2014) *Master's in European Social Policy*
 
-- Master's in European Social Policy
-
-#### University of Warwick (2009 - 2012)
-
-- Bachelor's in Philosophy, Politics and Economics (PPE)
+#### University of Warwick (2009 - 2012) *Bachelor's in Philosophy, Politics and Economics (PPE)*
 
 ## Work Experience
 
