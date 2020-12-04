@@ -33,10 +33,10 @@ _Business Analyst & Manager_
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
 | **Final project**             | A webapp to do x                                      | React, Jest, etc. |
-| **Takeaway Challenge** | Used TDD to write a Ruby program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API |
-| **Oystercard** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, API |
-| **Airport challenge** | Used TDD to write a Ruby program which xxx | Ruby, RSpec |
-| **Boris Bikes** | Used TDD to write a Ruby program which mimicks the popular Transport for London bikes  | Ruby, RSpec            |
+| **Takeaway Challenge** | Used TDD to write a Ruby program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API, TDD |
+| **Oystercard** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, API, TDD |
+| **Airport challenge** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, TDD |
+| **Boris Bikes** | Used TDD to write a Ruby program which mimicks the popular Transport for London bikes  | Ruby, RSpec, TDD |
 
 
 ## Skills
