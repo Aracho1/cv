@@ -52,6 +52,6 @@ _Business Analyst & Manager_
 - CFA Level II
 
 ## Others
-- [My Coding Blog](https://hello-ara.medium.com/)
+- Check out my coding [blog](https://hello-ara.medium.com/)
 - Hobbies: Yoga, hiking, listening to podcasts
 - Interests: Sustability, minimalism, travel
