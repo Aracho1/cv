@@ -1,5 +1,6 @@
 ## Ara Cho
-[Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Projects](#projects) | [Skills](#skills) |[Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
+[Email](hello.ara@pm.me)
+[LinkedIn](http://www.linkedin.com/in/aracho1) | 
 
 I just completed Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
@@ -51,5 +52,6 @@ Tools: Git, RSpec
 - CFA Level II
 
 ## Others
+- [My Coding Blog](https://hello-ara.medium.com/)
 - Hobbies:
 - Interests:
