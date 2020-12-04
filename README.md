@@ -1,46 +1,7 @@
 ## Ara Cho
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
+[Projects](#projects) |  [Education](#education) | [Work Experience](#work-experience) | [Projects](#projects) | [Skills](#skills) |[Qualifications](#qualifications) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am an aspiring **Full Stack Developer**, looking for an opportunity to work with an inspiring and fun tech team. I'm confident you'll love working with me because I'm a great communicator, team worker and will be learning programming fast and hard. 
-
-I studied philosophy but worked in finance - so I love being logical in both conceptual and implementational level. I love developing ideas but I also like to be pragmtic and efficient. These give me a great advantage as a programmer. 
-
-I'm passionate about promoting diversity in Tech. I'm part of many female programmer networks such as Women Who Code, Ladies of Code and Code First Girls.
-
-Please take a look below at a suite of my coding projects, and if you are impressed for more, a list of my skill sets, professional experiences and others.
-
-I'd love if you reach out to me for a chat at hello.ara@pm.me
-
-**Tech Skills**: Ruby, Javascript, Test-Driven Development, Object-Oriented Design, HTML, CSS
-
-## Projects
-
-| Name                          | Description                                           | Tech/tools        |
-| ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Final project**             | A webapp to do x                                      | React, Jest, etc. |
-| **Sustainability Calculator** | A webapp which calculates a product's sustainability. | tbc               |
-
-
-
-## Skills
-
-#### I'm a great communicator
-
-- As a Business Analyst / Manager at UBS, I coordinated 20+ projects with regional teams spread across Europe, Asia and America. As a key facilitator, I was resposible for communication of group strategies to the sales teams.
-- I have been writing weekly blog posts about programming and other topics as you can see [here](https://hello-ara.medium.com/)
-- I did 7-month internship with S.Korea's biggest news agency, writing daily news articles published online.
-- I have regularly volunteered as an interpreter/translator, including during the 2012 London Olympics.
-
-#### Everyone tells me I'm great to work with!
-
-- The most consistent feedback I got from my ex-bosses and colleagues was that they love working with me because I am collaborative, accountable and professional.
-- I am both proactive and patient, and having this balance makes me a great collaborator. And by nature, I love helping people, both in professional and personal settings. 
-
-#### I'm an efficient and proactive learner 
-
-- I achieved x at Makers while x
-- When I joined the sales team in my old company, I learned all the products, strategies and processes in a very short span of time. As a result I started contributing to key projects from very early on. 
-- I succesfully passed the most highly regarded exam in finance (CFA) two years in a row while working full-time
+I just completed Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
 ## Education
 
@@ -53,28 +14,42 @@ I'd love if you reach out to me for a chat at hello.ara@pm.me
 
 #### London School of Economics (2013 - 2014)
 
-- MSc Social Policy
+- Master's in European Social Policy
 
 #### University of Warwick (2009 - 2012)
 
-- BA Philosophy, Politics and Economics (PPE)
+- Bachelor's in Philosophy, Politics and Economics (PPE)
 
-## Experience
+## Work Experience
 
 **UBS** (2015 - 2020)  
 _Business Analyst & Manager_
 
-- Responsible for planning and implementing various projects to optimise the business processes and systems
+-
+Responsible for planning and implementing various projects to optimise the business processes and systems
 - Worked with stakeholders in IT, finance and compliance to improve the sales experience and process for sales managers
+
+## Projects
+
+| Name                          | Description                                           | Tech/tools        |
+| ------------------------------| ----------------------------------------------------- | ----------------- |
+| **Final project**             | A webapp to do x                                      | React, Jest, etc. |
+| **Takeaway Challenge** | A program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API |
+| **Oystercard** | A program which xxx | Ruby, RSpec, API |
+| **Airport challenge** | A program which xxx | Ruby, RSpec |
+| **Boris Bikes** | A program which mimicks the popular Transport for London bikes  | Ruby, RSpec            |
+
+
+## Skills
+Languages: Javascript, Ruby, HTML, CSS
+Library: jQuery, Bootstrap, 
+Tools: Git, RSpec
 
 ## Qualifications
 
 - Professional Scrum Master
 - CFA Level II
 
-## Hobbies and Interests
-
-- Volunteering overseas: I love volunteering abroad which has taken me to places like Vietnam, Nepal and Thailand. 
-- Hiking: Coming from South Korea whose land consists of 70% mountains, I love hiking in the mountain more than a lie in the beach!
-- Yoga: My retirement dream is to teach yoga in Bali. Namaste.
-- Alternative lifestyle: vegan, minimalist, (trying-to-be) zero waste
+## Others
+- Hobbies:
+- Interests:
