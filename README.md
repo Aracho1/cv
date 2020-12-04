@@ -1,5 +1,5 @@
 ## Ara Cho
-[Email](emailto:hello.ara@pm.me) | [LinkedIn](http://www.linkedin.com/in/aracho1)
+Email: hello.ara@pm.me | [LinkedIn](http://www.linkedin.com/in/aracho1) | London, United Kingdom
 
 I just completed Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
@@ -29,7 +29,7 @@ _Business Analyst & Manager_
 - Increased annual cross-business referrals by 28% by working on implementing a new incentive structure and facilitating stakeholder meetings
 - Enhanced the oversight of UK sales activities by at least 50% by developing responsibility discharge matrix and running a governance committee
 - Optimized the internal legal entity search process by promoting a clean-up of the legal database in liaison with legal, compliance and sales teams
-- Developed a new set of client onboarding requirements and promoted them to internal clients in order to satisfy regulatory and compliance standards
+- Developed a new set of client onboarding requirements and promoted them to internal clients in order to satisfy regulatory (MIFID) and compliance standards
 
 
 ## Projects
