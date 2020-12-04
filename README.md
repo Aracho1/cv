@@ -1,5 +1,5 @@
 ## Ara Cho
-Email: hello.ara@pm.me | [LinkedIn](http://www.linkedin.com/in/aracho1) | London, United Kingdom
+London, United Kingdom | hello.ara@pm.me | [LinkedIn](http://www.linkedin.com/in/aracho1) | 
 
 I just completed Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
