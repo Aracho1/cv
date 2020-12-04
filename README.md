@@ -28,21 +28,23 @@ _Business Analyst & Manager_
 - Set up new client onboarding requirements according to new finance regulatory (MIFID) standards 
 
 
-## Projects
+## Programming Projects
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
 | **Final project**             | A webapp to do x                                      | React, Jest, etc. |
-| **Takeaway Challenge** | A program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API |
-| **Oystercard** | A program which xxx | Ruby, RSpec, API |
-| **Airport challenge** | A program which xxx | Ruby, RSpec |
-| **Boris Bikes** | A program which mimicks the popular Transport for London bikes  | Ruby, RSpec            |
+| **Takeaway Challenge** | Used TDD to write a Ruby program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API |
+| **Oystercard** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, API |
+| **Airport challenge** | Used TDD to write a Ruby program which xxx | Ruby, RSpec |
+| **Boris Bikes** | Used TDD to write a Ruby program which mimicks the popular Transport for London bikes  | Ruby, RSpec            |
 
 
 ## Skills
-Languages: Javascript, Ruby, HTML, CSS
-Library: jQuery, Bootstrap, 
-Tools: Git, RSpec
+**Languages**: Javascript, Ruby, HTML, CSS
+
+**Library**: jQuery, Bootstrap, 
+
+**Tools**: Git, RSpec
 
 ## Qualifications
 
