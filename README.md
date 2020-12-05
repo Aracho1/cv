@@ -1,7 +1,7 @@
 ## Ara Cho
 hello.ara@pm.me | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am currently studying programming at Makers Academy bootcamp and am looking to pivot software engineering from my previous role as a business analyst in finance. 
+I am currently studying programming at Makers Academy and am looking to pivot software engineering from my previous role as a business analyst in finance. 
 
 ## Education
 
