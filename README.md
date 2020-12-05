@@ -21,6 +21,8 @@ I am currently studying programming at Makers Academy and am looking to pivot so
 **UBS Asset Management** (2018 - 2020)  
 _Business Manager_
 
+- Maintained internal sales database by monitoring data quality and working to improve database feaures in liaison with IT and Finance departments
+- Managed daily and monthly sales reporting processes and promoted their oversight and transparency
 - Improved the efficiency and speed of daily finance flow reporting by 30% by optimising the reporting process and structure
 - Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
 - Enhanced the oversight of UK sales activities by at least 50% by establishing responsibility discharge matrix
@@ -28,7 +30,7 @@ _Business Manager_
 **UBS Group COO Office** (2018 - 2020) 
 _Business Analyst_
 - Optimized the internal legal entity search process by promoting a clean-up of the legal database in liaison with legal, compliance and sales teams
-- Set up new client onboarding requirements according to new finance regulatory (MIFID) standards 
+- Set up new client onboarding process to satisfy finance regulatory (MIFID) standards 
 
 
 ## Projects
