@@ -27,9 +27,9 @@ _Business Manager_
 - Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
 - Enhanced the oversight of UK sales activities by at least 50% by establishing responsibility discharge matrix
 
-**UBS Group COO Office** (2018 - 2020) 
+**UBS Group COO Office** (2018 - 2020)
 _Business Analyst_
-- Optimized the internal legal entity search process by promoting a clean-up of the legal database in liaison with legal, compliance and sales teams
+- Optimized the internal legal entity search process by promoting data clean-up and driving implementation of enhanced features
 - Set up new client onboarding process to satisfy finance regulatory (MIFID) standards 
 
 
