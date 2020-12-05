@@ -24,13 +24,16 @@ _Business Manager_
 - Maintained internal sales database by monitoring data quality and working to improve database feaures with IT and Finance departments
 - Managed daily and monthly sales reporting processes and promoted their oversight and transparency
 - Improved the efficiency and speed of daily finance flow reporting by 30% by optimising the reporting process and structure
-- Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
 - Enhanced the oversight of UK sales activities by at least 50% by establishing responsibility discharge matrix
+- Set up new client onboarding process to satisfy finance regulatory (MIFID) standards 
 
 **UBS Group COO Office** (2018 - 2020)
 _Business Analyst_
 - Optimized the internal legal entity search process by promoting data clean-up and driving implementation of enhanced features
-- Set up new client onboarding process to satisfy finance regulatory (MIFID) standards 
+- Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
+- tbd
+- tbd
+- tbd
 
 
 ## Projects
