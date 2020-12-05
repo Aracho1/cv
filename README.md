@@ -1,7 +1,7 @@
 ## Ara Cho
 hello.ara@pm.me | [LinkedIn](http://www.linkedin.com/in/aracho1) | [Blog](https://hello-ara.medium.com/)
 
-I am currently studying programming at Makers Academy and am looking to pivot software engineering from my previous role as a business analyst in finance. 
+I am currently studying programming at Makers Academy and am looking to pivot software engineering from my previous role as a business analyst in finance.
 
 ## Education
 
@@ -21,7 +21,7 @@ I am currently studying programming at Makers Academy and am looking to pivot so
 **UBS Asset Management** (2018 - 2020)  
 _Business Manager_
 
-- Maintained internal sales database by monitoring data quality and working to improve database feaures in liaison with IT and Finance departments
+- Maintained internal sales database by monitoring data quality and working to improve database feaures with IT and Finance departments
 - Managed daily and monthly sales reporting processes and promoted their oversight and transparency
 - Improved the efficiency and speed of daily finance flow reporting by 30% by optimising the reporting process and structure
 - Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
