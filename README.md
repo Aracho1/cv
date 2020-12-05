@@ -29,8 +29,8 @@ _Business Manager_
 **UBS Group COO Office** (2018 - 2020)
 _Business Analyst_
 - Optimized the internal legal entity search process by promoting data clean-up of 150+ legal entities for the company
-- Increased annual cross-business referrals by 28% by working on implementing a new incentive scheme
-- tbd
+- Increased annual cross-business referrals by 28% by promoting new referral system
+- Worked to develop a matrix for measuring performance of sales directors 
 - tbd
 - tbd
 
