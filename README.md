@@ -49,10 +49,10 @@ _Business Analyst_
 
 
 ## Skills
-**Languages**: Ruby,Javascript, SQL, HTML/CSS
-**Library**: jQuery, Bootstrap
-**Tools**: Git, Sinatra, RSpec
-**Others**: Scrum, Test Driven Development
+-**Languages**: Ruby,Javascript, SQL, HTML/CSS
+-**Library**: jQuery, Bootstrap
+-**Tools**: Git, Sinatra, RSpec
+-**Others**: Scrum, Test Driven Development
 
 ## Qualifications
 
