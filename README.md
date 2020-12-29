@@ -12,7 +12,8 @@ I am currently studying programming at Makers Academy and am looking to pivot so
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### CS50 - CS50 is an introductory course in Computer Science taught by Harvard University
+#### CS50 
+- CS50 is an introductory course in Computer Science taught by Harvard University
 - Abstraction, algorithms, data structures, encapsulation, security, and software engineering. 
 - Languages: C, Python, SQL, HTML, CSS, and JavaScript 
 
