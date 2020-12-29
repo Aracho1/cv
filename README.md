@@ -12,6 +12,10 @@ I am currently studying programming at Makers Academy and am looking to pivot so
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### CS50 - CS50 is an introductory course in Computer Science taught by Harvard University
+- Abstraction, algorithms, data structures, encapsulation, security, and software engineering. 
+- Languages: C, Python, SQL, HTML, CSS, and JavaScript 
+
 #### London School of Economics (2013 - 2014) - *Master's in European Social Policy*
 
 #### University of Warwick (2009 - 2012) - *Bachelor's in Philosophy, Politics and Economics (PPE)*
@@ -31,8 +35,6 @@ _Business Analyst_
 - Optimized the internal legal entity search process by promoting data clean-up of 150+ legal entities for the company
 - Increased annual cross-business referrals by 28% by promoting new referral system
 - Worked to develop a matrix for measuring performance of sales directors 
-- tbd
-- tbd
 
 
 ## Projects
@@ -47,16 +49,15 @@ _Business Analyst_
 
 
 ## Skills
-**Languages**: Javascript, Ruby, HTML, CSS
-
-**Library**: jQuery, Bootstrap, 
-
-**Tools**: Git, RSpec
+**Languages**: Ruby,Javascript, SQL, HTML/CSS
+**Library**: jQuery, Bootstrap
+**Tools**: Git, Sinatra, RSpec
+**Others**: Scrum, Test Driven Development
 
 ## Qualifications
 
 - Professional Scrum Master
-- CFA Level II
+- CS50
 
 ## Others
 - Check out my coding [blog](https://hello-ara.medium.com/)
