@@ -42,10 +42,11 @@ _Business Analyst_
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Takeaway Challenge** | Used TDD to write a Ruby program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API, TDD |
-| **Acebook** | A social media platform where users can post messages (https://github.com/Aracho1/acebook-JAANIS) | JS, Ruby on Rails, React |
-| **MakersBnB** | An AirBnB clone where users can list and rent rooms | Ruby, Sinatra, RSpec, TDD |
-| **Notes App** | Front-end app where users can make notes | JS |
+| **Acebook** | A social media platform where users can post messages (https://github.com/Aracho1/acebook-JAANIS) | JS, Ruby on Rails, React, PostgreSQL |
+| **MakersBnB** | An AirBnB clone where users can list and rent rooms (https://github.com/Aracho1/MakersBnB) | Ruby, Sinatra, RSpec, TDD |
+| **Notes App** | Front-end app where users can make notes (http://sheep-notes.surge.sh/) | JS |
+| **Chitter** | Twitter clone where users can post messages (https://github.com/Aracho1/chitter-challenge) | Ruby, RSpec, API, TDD |
+
 
 
 ## Skills
