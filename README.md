@@ -9,7 +9,7 @@ I am currently studying programming at Makers Academy and am looking to pivot so
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
+- JavaScript, Ruby, Rails
 - RSpec, Jasmine
 
 #### CS50 
@@ -42,16 +42,15 @@ _Business Analyst_
 
 | Name                          | Description                                           | Tech/tools        |
 | ------------------------------| ----------------------------------------------------- | ----------------- |
-| **Final project**             | A webapp to do x                                      | React, Jest, etc. |
 | **Takeaway Challenge** | Used TDD to write a Ruby program which can place takeaway orders and send message using Twilio | Ruby, RSpec, API, TDD |
-| **Oystercard** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, API, TDD |
-| **Airport challenge** | Used TDD to write a Ruby program which xxx | Ruby, RSpec, TDD |
-| **Boris Bikes** | Used TDD to write a Ruby program which mimicks the popular Transport for London bikes  | Ruby, RSpec, TDD |
+| **Acebook** | A social media platform where users can post messages (https://github.com/Aracho1/acebook-JAANIS) | JS, Ruby on Rails, React |
+| **MakersBnB** | An AirBnB clone where users can list and rent rooms | Ruby, Sinatra, RSpec, TDD |
+| **Notes App** | Front-end app where users can make notes | JS |
 
 
 ## Skills
-- **Languages**: Ruby,Javascript, SQL, HTML/CSS
-- **Library**: jQuery, Bootstrap
+- **Languages**: Javascript, Ruby, SQL, HTML/CSS
+- **Library**: React, Bootstrap
 - **Tools**: Git, Sinatra, RSpec
 - **Others**: Scrum, Test Driven Development
 
