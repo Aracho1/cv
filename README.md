@@ -63,4 +63,4 @@ _Business Analyst_
 ## Others
 - Check out my coding [blog](https://hello-ara.medium.com/)
 - Hobbies: Yoga, hiking, listening to podcasts
-- Interests: Sustability, minimalism, travel
+- Interests: Sustainability, minimalism, travel
